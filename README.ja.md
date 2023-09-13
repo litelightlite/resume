@@ -62,19 +62,19 @@
 
 |  技術  |  経験年数  |
 | ---- | ---- |
-|  <img src="https://img.shields.io/badge/-macOS-000000?logo=macos&style=flat-square" />  |  4年  |
-|  <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat-square"> |  3年  |
-|  <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat-square"> |  0.5年  |
-|  <img src="https://img.shields.io/badge/-CentOS-262577.svg?logo=centos&style=flat-square">  |  2.5年  |
+|  <img src="https://img.shields.io/badge/-macOS-000000?logo=macos&style=flat-square" />  |  5年  |
+|  <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat-square"> |  4年  |
+|  <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat-square"> |  1.5年  |
+|  <img src="https://img.shields.io/badge/-CentOS-262577.svg?logo=centos&style=flat-square">  |  3.5年  |
 
 ### エディタ・IDE
 
 |  技術  |  経験年数  |
 | ---- | ---- |
-|  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat"> | 4年  |
-|  <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">|  4年  |
-|  <img src="https://img.shields.io/badge/-Emacs-EEE.svg?logo=spacemacs&style=flat">  |  4年  |
-| <img src="https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flat"> | 2.5年 | 
+|  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat"> | 5年  |
+|  <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">|  5年  |
+|  <img src="https://img.shields.io/badge/-Emacs-EEE.svg?logo=spacemacs&style=flat">  |  5年  |
+| <img src="https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flat"> | 3.5年 | 
 
 
 
@@ -82,11 +82,11 @@
 
 |  技術  |  経験年数  | 
 | ---- | ---- |
-| <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat"> |  0.5年  |
-|  <img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat">|  1年  | 
-|  <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat"> |  4年  |
-|  <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat"> | 0.5年 | 
-| <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?logo=kubernetes&style=flat-square"> | 0.5年 | 
+| <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat"> |  1.5年  |
+|  <img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat">|  2年  | 
+|  <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat"> |  5年  |
+|  <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat"> | 1.5年 | 
+| <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?logo=kubernetes&style=flat-square"> | 1.5年 | 
 
 
 
