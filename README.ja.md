@@ -39,22 +39,22 @@
 
 |  技術  |  経験年数  |
 | ---- | ---- |
-|  <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat-square" />  |  4年  |
-|  <img src="https://img.shields.io/badge/-Shell-FFD500.svg?logo=shell&style=flat-square" />  |  4年  |
-|  <img src="https://img.shields.io/badge/-Scala-DC322F.svg?logo=scala&style=flat-square">  |  2.5年  |
-|  <img src="https://img.shields.io/badge/-Java-4D77C3.svg?logo=java&style=flat-square">  |  0.5年  |
-|  <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=c%2B%2B&style=flat-square">   |  0.5年  |
+|  <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat-square" />  |  5年  |
+|  <img src="https://img.shields.io/badge/-Shell-FFD500.svg?logo=shell&style=flat-square" />  |  5年  |
+|  <img src="https://img.shields.io/badge/-Scala-DC322F.svg?logo=scala&style=flat-square">  |  3.5年  |
+|  <img src="https://img.shields.io/badge/-Java-4D77C3.svg?logo=java&style=flat-square">  |  1.5年  |
+|  <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=c%2B%2B&style=flat-square">   |  1.5年  |
 
 
 ### ライブラリ
 
 |  技術  |  経験年数  |
 | ---- | ---- |
-|  <img src="https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat-square"/>  |  4年  |
-|  <img src="https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat-square"/>  |  4年  |
-|  <img src="https://img.shields.io/badge/-sklearn-F7931E.svg?logo=scikit-learn&style=flat-square"/>  |  4年  |
-|  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C.svg?logo=pytorch&style=flat-square"/>  |  0.5年  |
-|  <img src="https://img.shields.io/badge/-Apache Spark-E25A1C.svg?logo=apachespark&style=flat-square"/>  |  2.5年  |
+|  <img src="https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat-square"/>  |  5年  |
+|  <img src="https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat-square"/>  |  5年  |
+|  <img src="https://img.shields.io/badge/-sklearn-F7931E.svg?logo=scikit-learn&style=flat-square"/>  |  5年  |
+|  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C.svg?logo=pytorch&style=flat-square"/>  |  1.5年  |
+|  <img src="https://img.shields.io/badge/-Apache Spark-E25A1C.svg?logo=apachespark&style=flat-square"/>  |  3.5年  |
 
 
 
@@ -63,9 +63,9 @@
 |  技術  |  経験年数  |
 | ---- | ---- |
 |  <img src="https://img.shields.io/badge/-macOS-000000?logo=macos&style=flat-square" />  |  5年  |
-|  <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat-square"> |  4年  |
-|  <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat-square"> |  1.5年  |
-|  <img src="https://img.shields.io/badge/-CentOS-262577.svg?logo=centos&style=flat-square">  |  3.5年  |
+|  <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat-square"> |  5年  |
+|  <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat-square"> |  2.5年  |
+|  <img src="https://img.shields.io/badge/-CentOS-262577.svg?logo=centos&style=flat-square">  |  4.5年  |
 
 ### エディタ・IDE
 
@@ -118,8 +118,8 @@ ZOZOTOWN上で動作する推薦システムの開発に従事した．
 ## 論文
 
 ### 2023 
-- 平川優伎，斎藤侑輝:
-着用者の体型を考慮したファッションコーディネート推薦
+- 平川優伎，斎藤侑輝：  
+着用者の体型を考慮したファッションコーディネート推薦  
 第26回 画像の認識・理解シンポジウム
 
 ### 2021
